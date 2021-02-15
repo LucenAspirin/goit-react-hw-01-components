@@ -1,0 +1,19 @@
+.transaction {
+  width: 400px;
+  text-align: center;
+  background-color: #ffffff;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: 5px;
+  border: 0.1px solid rgb(240, 229, 229);
+  text-align: center;
+}
+thead {
+  background-color: #02b6f7;
+}
+
+.bodyRow:nth-child(even) {
+  background-color: #dbdbdb77;
+}
